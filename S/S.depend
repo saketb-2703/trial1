@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1614482224 source:c:\users\saket\onedrive\desktop\cb programs\s\main.cpp
+	<iostream>
+	"Birthday.h"
+	"People.h"
+
+1614482224 c:\users\saket\onedrive\desktop\cb programs\s\include\birthday.h
+
+1614482474 c:\users\saket\onedrive\desktop\cb programs\s\include\people.h
+	<string>
+	"Birthday.h"
+
+1614482521 source:c:\users\saket\onedrive\desktop\cb programs\s\src\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1614483204 source:c:\users\saket\onedrive\desktop\cb programs\s\src\people.cpp
+	"People.h"
+	<iostream>
+

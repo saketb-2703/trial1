@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1614541621 source:c:\users\saket\onedrive\desktop\cb programs\p3\main.cpp
+	<iostream>
+
+1614537736 c:\users\saket\onedrive\desktop\cb programs\p3\include\mother.h
+
+1614538310 c:\users\saket\onedrive\desktop\cb programs\p3\include\daughter.h
+	"Mother.h"
+
+1614537845 source:c:\users\saket\onedrive\desktop\cb programs\p3\src\daughter.cpp
+	"Daughter.h"
+	<iostream>
+
+1614537845 source:c:\users\saket\onedrive\desktop\cb programs\p3\src\mother.cpp
+	"Mother.h"
+	<iostream>
+

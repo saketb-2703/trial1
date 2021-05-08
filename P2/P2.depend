@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1614487581 source:c:\users\saket\onedrive\desktop\cb programs\p2\main.cpp
+	<iostream>
+	"Sally.h"
+
+1614485978 c:\users\saket\onedrive\desktop\cb programs\p2\include\hannah.h
+
+1614485995 source:c:\users\saket\onedrive\desktop\cb programs\p2\src\hannah.cpp
+	"Hannah.h"
+	<iostream>
+
+1614487486 c:\users\saket\onedrive\desktop\cb programs\p2\include\sally.h
+
+1614487555 source:c:\users\saket\onedrive\desktop\cb programs\p2\src\sally.cpp
+	"Sally.h"
+	<iostream>
+

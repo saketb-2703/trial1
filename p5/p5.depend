@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614585483 source:c:\users\saket\onedrive\desktop\cb programs\p5\main.cpp
+	<iostream>
+	<fstream>
+

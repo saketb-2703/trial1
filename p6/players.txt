@@ -1,0 +1,9 @@
+Spoon 0
+Chair 0
+Fork -10
+Soda 10
+Banana 20
+Cash 50
+Gun 100
+Police -150
+Spikes -50
